@@ -25,8 +25,10 @@
 
 ### What I learned 
 
-<!--! Turkish -->
-Heryere margin ve padding atıp dağınık bir kod stili sergilemek yerine, yapabildiğim kadarıyla flex,grid gibi layout'lar ile en iyi hale getirmeliyim, bu aynı zamanda temiz bir kod sağlar.
+Turkish Explain
+-----------------
+
+Her tarafa margin ve padding atıp dağınık bir kod stili sergilemek yerine, yapabildiğim kadarıyla flex,grid gibi layout'lar ile en iyi hale getirmeliyim, bu aynı zamanda temiz bir kod sağlar.
 
 Eğer yapabilirsem bu projede, yapamaz isem diğer projelerde yapmak istediğim birşey var. Çoğu yerde kullanmak istediğim ortak değerler oluyor mesela 5 div'e de ortak bir amaçla max-width değeri vermişim ve hepsinin değerinin de aynı olması gerekiyor. İşte bunu yaşadığım durumlarda scss'de ortak bir değişken oluşturup sadece oradan değiştireceğim. Bu da aynı zamanda temiz kod sağlar.
 
