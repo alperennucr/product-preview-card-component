@@ -1,5 +1,3 @@
-# Frontend Mentor - Product preview card component solution
-
 - [Important Code Notes](#Important-Code-Notes)
 - [What I learned](#what-i-learned)
 - [Continued development](#Topics-I'm-missing-and-want-to-improve-myself)
@@ -36,7 +34,7 @@ Container ve Section class isimlerini kafama göre kullanıyorum gibi. Bunun ayr
 
 ### Topics I'm missing and want to improve myself
 
-
+Grid Layout & Bootstrap or something else(CSS Framework)
 
 ### Resources that helped me with this project
 
@@ -45,9 +43,7 @@ Container ve Section class isimlerini kafama göre kullanıyorum gibi. Bunun ayr
 - [For Responsive Design](https://www.youtube.com/watch?v=yMXObvUufq4) - Responsive için yardım aldım.
 ## Creator
 
-- Website - [Alperen-Ucar](https://www.your-site.com)
+- Website - [Project-Site](https://alperennucr.github.io/product-preview-card-component/)
 - Frontend Mentor - [@alperennucr](https://www.frontendmentor.io/profile/alperennucr)
 - Github - [@alperennucr](https://github.com/alperennucr)
-
-## Acknowledgments
-
+- LinkedIn - [Alperen Uçar](https://www.linkedin.com/in/alperen-u%C3%A7ar-a26434247/)
